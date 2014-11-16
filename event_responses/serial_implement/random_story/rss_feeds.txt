@@ -1,0 +1,2 @@
+http://atwar.blogs.nytimes.com/feed/
+http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
